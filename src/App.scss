@@ -1,0 +1,24 @@
+h1,h2,h3,h4,h5,h6, .text-center {
+  text-align: center;
+}
+
+.form {
+  max-width: 400px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  input {
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+}
+
+button {
+  background: #0052CC;
+  color: #FFFFFF;
+  border: 1px solid #0052CC;
+  font-weight: 700;
+  width: 100%;
+  padding: 15px;
+}
